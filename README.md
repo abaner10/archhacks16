@@ -23,9 +23,9 @@ Currently, we have a bot that diagnoses a patient based on the personal details 
 
 #Usage Instructions
 For the best user-experience and more accurate diagnosis we strongly recommend you to follow the following steps while interacting with the Nurse bot.
-1. Please provide us with your full name.
+1. Please provide us with your full name
 2. Please type in your gender as either 'male' or 'female'.
 3. Please provide the symptoms as accurately as possible.
-3. Press enter once to put in the next symptom and twice to see your diagnosis.
-4. Finally book an appointment before contacting the doctor for futher analysis of your symptoms.
+4. Press enter once to put in the next symptom and twice to see your diagnosis.
+5. Finally book an appointment before contacting the doctor for futher analysis of your symptoms.
 

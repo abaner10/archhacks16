@@ -6,7 +6,7 @@ Dr. AI aims to reduce the noise and clutter in YOUR visits to the Doctor. We are
 
 Currently, we have a bot that diagnoses a patient based on the personal details and symptoms. 
 
-#Working Functionality
+# Working Functionality
 1. Talk to a Nurse Bot
 2. Initial Diagnosis based on the symptoms
 3. Probability of the diagnosis
@@ -21,8 +21,8 @@ Currently, we have a bot that diagnoses a patient based on the personal details 
 6. Create a prescription delivery system where patient can get medicine delivered to them.
 7. Create a database of the patients for a smoother user experience.
 
-#Usage Instructions
 For the best user-experience and more accurate diagnosis we strongly recommend you to follow the following steps while interacting with the Nurse bot.
+# Usage Instructions
 1. Please provide us with your full name
 2. Please type in your gender as either 'male' or 'female'.
 3. Please provide the symptoms as accurately as possible.

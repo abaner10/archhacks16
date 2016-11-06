@@ -13,19 +13,19 @@ Currently, we have a bot that diagnoses a patient based on the personal details 
 4. Best recommended doctors in the area
 
 # Future Work
-1. We are currently working on an interactive app/web application (with GUI)
-2. Create a real-time chat application that connects patients with doctors directly after diagnosis
-3. Incorporate our bot to handle mundane/standard work (i.e. collecting particulars/symptoms, passing info to doctor)
-4. Come up with list of nearby pharmacies for the user
-5. Greatly improve accuracy of diagnosis prediction
+1. We are currently working on an interactive app/web application (with GUI).
+2. Create a real-time chat application that connects patients with doctors directly after diagnosis.
+3. Incorporate our bot to handle mundane/standard work (i.e. collecting particulars/symptoms, passing info to doctor).
+4. Come up with list of nearby pharmacies for the user.
+5. Greatly improve accuracy of diagnosis prediction.
 6. Create a prescription delivery system where patient can get medicine delivered to them.
-7. Create a database of the patients for a smoother user experience
+7. Create a database of the patients for a smoother user experience.
 
 #Usage Instructions
-For the best user-experience and more accurate diagnosis we strongly recommend you to follow the following steps while interacting with the Nurse bot
-1. Please provide us with your full name
-2. Please type in your gender as either 'male' or 'female'
-3. Please provide the symptoms as accurately as possible
-3. Press enter once to put in the next symptom and twice to see your diagnosis
-4. Finally book an appointment before contacting the doctor for futher analysis of your symptoms
+For the best user-experience and more accurate diagnosis we strongly recommend you to follow the following steps while interacting with the Nurse bot.
+1. Please provide us with your full name.
+2. Please type in your gender as either 'male' or 'female'.
+3. Please provide the symptoms as accurately as possible.
+3. Press enter once to put in the next symptom and twice to see your diagnosis.
+4. Finally book an appointment before contacting the doctor for futher analysis of your symptoms.
 

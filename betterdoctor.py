@@ -29,7 +29,7 @@ def get_doctor(longitude, latitude, diagnosis):
     #pp = pprint.PrettyPrinter(indent=4)
     doctor_list = []
     for i in range(5):
-        full_name = data['data'][i]['profile']['first_name'] + data['data'][i]['profile']['last_name']
+        full_name = data['data'][i]['profile']['first_name'] + " " + data['data'][i]['profile']['last_name']
         address = data['data'][i]['practices'][0]['visit_address']['street'] + " " + data['data'][i]['practices'][0]['visit_address']['city']
         address += data['data'][i]['practices'][0]['visit_address']['state'] + " " + str(data['data'][i]['practices'][0]['visit_address']['zip'])
         number = data['data'][i]['practices'][0]['phones'][0]['number']

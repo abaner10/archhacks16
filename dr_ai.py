@@ -36,7 +36,7 @@ print('There is a ' + str(probability*100) + '% ' +'chance that you have chance 
 if probability < 0.5:
     latitude, longitude = get_location()
     doctors = get_doctor(longitude = longitude, latitude = latitude, diagnosis = diagnosis)
-    print ("Our diagnosis isn't very accurate so you should visit one of the following doctors")
+    print ("From our initial analysis, we recommend the following doctors")
     try:    
         for doctor in doctors:
             print "You can visit "+doctor[0]+" at "+doctor[1]
